@@ -1,3 +1,11 @@
+# StudyAI — AI-Powered Study Assistant
+-An intelligent study assistant that lets you upload your course materials and interact with them using AI. Built with FastAPI, React, LangChain, ChromaDB, and the Groq API.
+## Features :
+- ⬆️Upload lessons — PDF, TXT, and Markdown files.
+- 📃Auto-summarize — structured summaries with key concepts and takeaways.
+- ❓Ask questions — RAG-powered Q&A grounded in your document.
+- 🎯Generate quizzes — adaptive MCQ with 3 difficulty levels and scoring
+
 # Setup guide
 
 ## What you need installed on your PC
