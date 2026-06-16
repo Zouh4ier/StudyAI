@@ -1,4 +1,4 @@
-# 🎓 StudyAI — Setup Guide
+# Setup guide
 
 ## What you need installed on your PC
 - Python 3.10 or 3.11 (NOT 3.13) → https://www.python.org/downloads/release/python-3119/
